@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  DongTaiQuXianTu
+//  动态折线图
 //
-//  Created by MJ on 2017/7/20.
+//  Created by MJ on 2017/7/18.
 //  Copyright © 2017年 韩明静. All rights reserved.
 //
 
